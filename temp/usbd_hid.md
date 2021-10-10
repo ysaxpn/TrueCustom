@@ -1,0 +1,1 @@
+Currently, stm32 libraray does not support led status feedback. Therefore, we need to override 4 files to support it. Original files are reloaded when you update library or fresh install, and you need to override the files.

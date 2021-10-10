@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.nc": "gcode",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
